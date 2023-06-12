@@ -3,6 +3,22 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# jupyterlab
+.bash_history
+.bashrc
+.cache/
+.config/
+.docker/
+.gitconfig
+.ipynb_checkpoints/
+.ipython/
+.jupyter/
+.keras/
+.local/
+src/
+tutorials/
+xmm-forecasting/
+
 # C extensions
 *.so
 
